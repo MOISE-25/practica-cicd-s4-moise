@@ -81,3 +81,5 @@ if (require.main === module) {
     console.log('Tareas creadas:', manager.tasks.length);
     console.log('Estadísticas:', manager.getStats());
 }
+
+//Corrección realizada en este archivo. 
